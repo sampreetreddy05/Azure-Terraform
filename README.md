@@ -1,2 +1,2 @@
-# terraform-azure-multi-environments
-Example Project on how to create multiple envrionments on Azure with Terraform
+# terraform-azure-multi-environment
+creating multiple envrionments on Azure with Terraform
